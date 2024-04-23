@@ -1,4 +1,4 @@
-# multi-STmodel
+# multi-ST Model
 A multivariate spatiotemporal model for tracking COVID-19 incidence and death rates in socially vulnerable populations
 
 The R folder containst R code for generating and fitting a simulated data example from the paper
